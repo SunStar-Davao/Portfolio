@@ -145,7 +145,7 @@ export const PROJECTS = [
     live: "https://guysandgals.vercel.app/",
     iconName: "SiReact",
     placeholder: false,
-    image: "../../src/assets/G&G.png",
+    image: "/images/G&G.png",
   },
   {
     id: 3,
@@ -156,7 +156,7 @@ export const PROJECTS = [
     live: "https://employee-tan-six.vercel.app/",
     iconName: "SiVite",
     placeholder: false,
-    image: "../../src/assets/S-Employee.png",
+    image: "/images/S-Employee.png",
   },
   {
     id: 4,
@@ -167,7 +167,7 @@ export const PROJECTS = [
     live: "https://admin-ten-snowy-36.vercel.app/login",
     iconName: "SiCsharp",
     placeholder: false,
-    image: "../../src/assets/S-Admin.png",
+    image: "/images/S-Admin.png",
   },
 ];
 
@@ -177,7 +177,7 @@ export const CERTIFICATES = [
     title: "AI ML Projects",
     issuer: "simplilearn",
     date: "April 2025",
-    image: "../../src/assets/c1.png", 
+    image: "/images/c1.png", 
     placeholder: true,
   },
   {
@@ -185,7 +185,7 @@ export const CERTIFICATES = [
     title: "Getting Started with Full Stack Java Development",
     issuer: "simplilearn",
     date: "April 2025",
-    image: "../../src/assets/c3.png",
+    image: "/images/c3.png",
     placeholder: true,
   },
   {
@@ -193,7 +193,7 @@ export const CERTIFICATES = [
     title: "Introduction to Front End Development",
     issuer: "simplilearn",
     date: "April 2025",
-    image: "../../src/assets/c4.png",
+    image: "/images/c4.png",
     placeholder: true,  
   },
   {
@@ -201,7 +201,7 @@ export const CERTIFICATES = [
     title: "Build Complete CMS Blog in PHP MYSQL Bootstrap & PDO",
     issuer: "Udemy",
     date: "December 2024",
-    image: "../../src/assets/c5.png",
+    image: "/images/c5.png",
     placeholder: true,
   },
     {
@@ -209,7 +209,7 @@ export const CERTIFICATES = [
     title: "Certificate of Completion",
     issuer: "SunStar Davao Publishing Inc.",
     date: "May 2026",
-    image: "../../src/assets/c6.png",
+    image: "/images/c6.png",
     placeholder: true,
   },
 ];
