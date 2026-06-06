@@ -103,7 +103,7 @@ export default function Contact() {
       </div>
       <div className="contact-inner">
         <div className="reveal" style={{transitionDelay:'0.1s'}}>
-          <a href="mailto:tracksakyanapp@gmail.com" className="contact-email">tracksakyanapp@gmail.com</a>
+          <a href="mailto:tracksakyanapp@gmail.com" className="contact-email">zaglord123@gmail.com</a>
           <p className="contact-desc">
             I'm open to full-time roles, freelance projects, and collaborations. If you have an idea you'd like to bring to life, let's talk.
           </p>
