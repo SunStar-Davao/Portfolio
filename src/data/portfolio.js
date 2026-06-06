@@ -177,7 +177,7 @@ export const PROJECTS = [
     live: "https://drive.google.com/file/d/1REfIQ66hvMgGlYI4pPJXGIeZOfbg0UB7/view?usp=sharing",
     iconName: "SiCsharp",
     placeholder: false,
-    image: "/images/S-Admin.png",
+    image: "/images/infogram.png",
   },
 ];
 
