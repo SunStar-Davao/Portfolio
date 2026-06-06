@@ -17,7 +17,7 @@ export default function About() {
         <div className="reveal">
           <div className="about-photo">
             <div className="about-photo-inner">
-             <img src="../../src/assets/Me.jpeg" alt="Your Name" style={{width:'100%', height:'100%', objectFit:'cover', borderRadius:8}} />
+             <img src="/images/Me.jpeg" alt="Your Name" style={{width:'100%', height:'100%', objectFit:'cover', borderRadius:8}} />
             </div>
           </div>
         </div>
