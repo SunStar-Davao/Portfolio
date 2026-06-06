@@ -33,7 +33,7 @@ export default function About() {
           </div>
           <div className="about-stats">
             <div className="stat-box">
-              <div className="stat-num">4+</div>
+              <div className="stat-num">5+</div>
               <div className="stat-label">Projects</div>
             </div>
             <div className="stat-box">
