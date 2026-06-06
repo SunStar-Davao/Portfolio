@@ -41,7 +41,7 @@ export default function About() {
               <div className="stat-label">Tech Stacks</div>
             </div>
             <div className="stat-box">
-              <div className="stat-num">4+</div>
+              <div className="stat-num">5+</div>
               <div className="stat-label">Certificates</div>
             </div>
           </div>
