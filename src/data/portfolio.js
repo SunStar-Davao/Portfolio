@@ -134,7 +134,7 @@ export const PROJECTS = [
     live: "https://drive.google.com/file/d/1cNGSFyTLNzJLTTXBCNN_1fI_q9OQ0-O1/view?usp=sharing",
     iconName: "SiReact",
     placeholder: false,
-    image: "../../src/assets/TS.png",
+    image: "/images/TS.png",
   },
   {
     id: 2,
