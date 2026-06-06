@@ -169,6 +169,16 @@ export const PROJECTS = [
     placeholder: false,
     image: "/images/S-Admin.png",
   },
+   {
+    id: 5,
+    title: "InfroGram",
+    desc: "Exclusive social media platform for IT students at Holy Cross of Davao College, designed to foster engagement and connectivity within the IT community. Students can stay updated on IT program events, announcements, and activities, ensuring no one misses important updates. Built to strengthen the IT community by centralizing program-related news and fostering real-time interaction among students.",
+    tags: ["Expo", "Firebase"],
+    live: "https://drive.google.com/file/d/1REfIQ66hvMgGlYI4pPJXGIeZOfbg0UB7/view?usp=sharing",
+    iconName: "SiCsharp",
+    placeholder: false,
+    image: "/images/S-Admin.png",
+  },
 ];
 
 export const CERTIFICATES = [
