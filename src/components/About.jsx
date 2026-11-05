@@ -33,11 +33,11 @@ export default function About() {
           </div>
           <div className="about-stats">
             <div className="stat-box">
-              <div className="stat-num">8+</div>
+              <div className="stat-num">7+</div>
               <div className="stat-label">Projects</div>
             </div>
             <div className="stat-box">
-              <div className="stat-num">13+</div>
+              <div className="stat-num">14+</div>
               <div className="stat-label">Tech Stacks</div>
             </div>
             <div className="stat-box">
